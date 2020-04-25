@@ -23,6 +23,7 @@ Kaynak kodlara doğrudan erişim için biyografide belirtilen linki kullanabilir
 * <i>Problems.1</i> : 3 ve 5'in çarpanları
 * <i>Problems.2</i> : Çift Fibonacci Sayıları
 * <i>Problems.3</i> : En büyük asal bölen
+* <i>Problems.4</i> : 2 adet 3 haneli sayı çarpımlarının en büyük Palindrom sayısı
 
 ## Örnek İçerikler;
 
@@ -45,9 +46,6 @@ Kaynak kodlara doğrudan erişim için biyografide belirtilen linki kullanabilir
 		<td><img src = "problems.3/SS/Slayt3.PNG" height=200px width=100% /> </td>
 	</tr>
 </table>
-
-
-
 
 
 ## Changelog
