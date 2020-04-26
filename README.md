@@ -14,7 +14,7 @@ Python programa dili ile "Bir soru, bir cevap" şeklinde bir ambiyans oluşturac
 
 Problem çözümleri, sizden gelen sorular ve küçük programcıklarla dolu bir ortam.
 
-İçerikleri @codewithperesthayal sayfasından paylaşacağım.
+İçerikleri @codewithperesthayal <a href="https://www.instagram.com/codewithperesthayal/">@codewithperesthayal</a> sayfasından paylaşacağım.
 Kaynak kodlara doğrudan erişim için biyografide belirtilen linki kullanabilirsiniz.. 
 </p>
 
