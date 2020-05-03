@@ -1,8 +1,8 @@
 # Projelerle Kodluyorum
 ## Instagram : @codewithperesthayal
 
-**Versiyon	:**  1.0 		<br />
-**Lisans  	:**  GPL 		<br />
+**Versiyon	:**  1.0 					<br />
+**Lisans  	:**  Genel Kamu Lisansı     <br />
 **Contributors  :**  Burak Büyükyüksel	<br />
 
 <hr />
@@ -20,11 +20,14 @@ Kaynak kodlara doğrudan erişim için biyografide belirtilen linki kullanabilir
 
 ## Şuanki içerikler;
 ### Problemler
-* <i>Problems.1</i> : 3 ve 5'in çarpanları
+* <i>Problems.1</i> : 3 ve 5'in Çarpanları
 * <i>Problems.2</i> : Çift Fibonacci Sayıları
-* <i>Problems.3</i> : En büyük asal bölen
-* <i>Problems.4</i> : 2 adet 3 haneli sayı çarpımlarının en büyük Palindrom sayısı
-* <i>Problems.5</i> : Çarpanların en küçüğü
+* <i>Problems.3</i> : En Büyük Asal Bölen
+* <i>Problems.4</i> : 2 Adet 3 Haneli Sayı Çarpımlarının En Büyük Palindrom Sayısı
+* <i>Problems.5</i> : Çarpanların En Küçüğü
+* <i>Problems.6</i> : Toplam Kare Farkı
+* <i>Problems.7</i> : 10001. Asal
+* <i>Problems.8</i> : Dizideki En Büyük Çarpan
 
 ### Projeler
 * <i>Project.1.DownloadFromYoutube</i> : Youtube Video İndirici
@@ -56,9 +59,9 @@ Kaynak kodlara doğrudan erişim için biyografide belirtilen linki kullanabilir
 </table>
 
 
-## Changelog
+## Değişiklikler
 
 ### 1.0
-* Released : April 25, 2020
+* Yayımlanma : Nisan 25, 2020
 
 Initial release
