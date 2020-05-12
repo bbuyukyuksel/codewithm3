@@ -10,8 +10,9 @@ if __name__ == '__main__':
     num = 20
     
     # Seri 
+    #factors = [0] * num
     #for i in range(1, num+1):
-    #    factors[i-1] = is_factor(num, i)
+    #    factors[i-1] = is_factor((num, i))
     #print(factors)
 
     _nums_ = [num for x in range(1,num+1)]
