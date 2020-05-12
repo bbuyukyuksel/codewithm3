@@ -42,7 +42,6 @@ if __name__ == '__main__':
 
     profiles = [x.split(':')[1].strip() for x in response if "All User Profile" in x]
 
-
     Passwords = {}
     for _,__profile__ in enumerate(profiles):
         profile = replacer(__profile__)

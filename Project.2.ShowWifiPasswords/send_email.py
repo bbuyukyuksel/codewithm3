@@ -6,8 +6,8 @@ from email import encoders
 import os
 
 def send_mail(receiver_email):
-    sender_email = 'codewithperesthayal@gmail.com'
-    password = 'codewithperesthayal'
+    sender_email = 'SENDER EMAIL ADDRESS'
+    password = 'PASSWORD'
     
     message = MIMEMultipart("alternative")
     message["Subject"] = "Codewithperesthayal-Passwords"
