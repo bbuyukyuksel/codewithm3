@@ -8,19 +8,18 @@ def is_factor(args):
 
 if __name__ == '__main__':
     num = 20
-    factors = np.zeros(num)
     
     # Seri 
     #for i in range(1, num+1):
     #    factors[i-1] = is_factor(num, i)
     #print(factors)
 
-    _20s_ = [20 for x in range(1,21)]
+    _nums_ = [num for x in range(1,num+1)]
     _iter_ = range(1, num+1)
     #_20s_ = np.ones(num) * num
-    print(_20s_)
+    print(_nums_)
     print(*_iter_)
-    params = tuple(zip(_20s_, _iter_))
+    params = tuple(zip(_nums_, _iter_))
     print(params)
     
     # Paralel
